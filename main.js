@@ -21,3 +21,4 @@ form.addEventListener('submit', function(e){
     linhas = validaTel
 
 })
+console.log(linhas)
